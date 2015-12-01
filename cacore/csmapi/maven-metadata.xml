@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>cacore</groupId>
+  <artifactId>csmapi</artifactId>
+  <version>4.1</version>
+  <versioning>
+    <versions>
+      <version>4.1</version>
+    </versions>
+    <lastUpdated>20151201205847</lastUpdated>
+  </versioning>
+</metadata>
