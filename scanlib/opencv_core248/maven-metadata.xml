@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>scanlib</groupId>
+  <artifactId>opencv_core248</artifactId>
+  <version>3.0.0-win32</version>
+  <versioning>
+    <versions>
+      <version>3.0.0-win32</version>
+    </versions>
+    <lastUpdated>20151201222835</lastUpdated>
+  </versioning>
+</metadata>
