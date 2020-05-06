@@ -5,5 +5,6 @@
   <groupId>scanlib</groupId>
   <artifactId>libdmscanlib64</artifactId>
   <version>3.0.0-ubuntu20.04</version>
+  <packaging>so</packaging>
   <description>POM was created from install:install-file</description>
 </project>
