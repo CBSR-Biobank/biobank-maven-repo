@@ -3,10 +3,11 @@
   <groupId>scanlib</groupId>
   <artifactId>dmscanlib</artifactId>
   <versioning>
-    <release>3.0.0-win32</release>
+    <release>3.0.1-win32</release>
     <versions>
       <version>3.0.0-win32</version>
+      <version>3.0.1-win32</version>
     </versions>
-    <lastUpdated>20200623140032</lastUpdated>
+    <lastUpdated>20200623140602</lastUpdated>
   </versioning>
 </metadata>
